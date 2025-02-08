@@ -6,7 +6,6 @@ from typing import Pattern, Union, Tuple, List, Dict, Any
 import numpy as np
 import numpy.typing as npt
 
-print("hello")
 """
 Some type annotations
 """
